@@ -82,12 +82,12 @@ header {
 .comida {
     width: 60%;
     margin: 5%;
-    border: solid 15px #ff000093;
+    border: solid 15px #00ff2a93;
 
 }
 
 footer {
-    background-color: #ff000093;
+    background-color: #00ff2a93;
     display: grid;
     grid-template-columns: 70% 30%;
 }
