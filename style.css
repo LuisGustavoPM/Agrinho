@@ -143,3 +143,19 @@ header a {
 .textinho{
     margin: 0;
 }
+
+.povo {
+    display: grid;
+    grid-template-columns: 50% 50% ;
+}
+
+.empreendedor {
+
+}
+
+.text {
+    width: 50%;
+    font-family: "IBM Plex Serif", serif;
+    font-weight: 500;
+    font-style: normal;
+}
