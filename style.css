@@ -77,9 +77,11 @@ header {
 }
 
 .textinho { 
-    margin-left: 300px;
     display: flex;
-    align-items: center;}
+    align-items: center;
+    justify-content: center;
+
+}
 
 #mercadorias {
     display: grid;
