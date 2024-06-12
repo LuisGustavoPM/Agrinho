@@ -76,6 +76,11 @@ header {
   
 }
 
+.textinho { 
+    margin-left: 300px;
+    display: flex;
+    align-items: center;}
+
 #mercadorias {
     display: grid;
     grid-template-columns: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%;
