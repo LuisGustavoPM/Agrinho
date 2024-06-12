@@ -66,10 +66,14 @@ header {
 }
 
 .img-empreender {
-    width: 100%;
+    width: 150%;
     font-family: "IBM Plex Serif", serif;
   font-weight: 500;
   font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
 }
 
 #mercadorias {
