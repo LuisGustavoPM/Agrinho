@@ -144,19 +144,19 @@ header a {
     margin: 0;
 }
 
-.povo {
+#povo {
     display: grid;
     grid-template-columns: 50% 50%;
+    justify-content: space-around;
+
 }
 
 .empreendedor {
-width: 50%  ;
+    width: 60%;
+    margin: 5%;
+    border: solid 15px #e0e0e093;
+
 }
-
-.empreendedor1 {
-    width: 100%  ;
-    }
-
 .text {
     width: 50%;
     font-family: "IBM Plex Serif", serif;
