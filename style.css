@@ -54,7 +54,7 @@ header {
 
 .Fotos {
     display: grid;
-    grid-template-columns: 15% 15% 15% 55%;
+    grid-template-columns: 55%;
 }
 
 .Integrante {
