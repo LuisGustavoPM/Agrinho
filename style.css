@@ -30,7 +30,7 @@ header {
 }
 
 .azul {
-    background-color: #ff0000a6;
+    background-color: #9e360693;
     padding: 11px;
     font-family: "Krub", sans-serif;
   font-weight: 500;
@@ -82,12 +82,12 @@ header {
 .comida {
     width: 60%;
     margin: 5%;
-    border: solid 15px #00ff2a93;
+    border: solid 15px #9e360693;
 
 }
 
 footer {
-    background-color: #00ff2a93;
+    background-color: #9e360693;
     display: grid;
     grid-template-columns: 70% 30%;
 }
