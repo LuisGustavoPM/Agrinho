@@ -166,7 +166,7 @@ header a {
     font-style: normal;
     text-align: justify;
     margin-inline-start: 90px;
-    margin-bottom: 30px;
+    margin-top: -25px;
 }
 .texts {
     width: 50%;
@@ -175,4 +175,5 @@ header a {
     font-style: normal;
     text-align: justify;
     margin-inline-start: 90px;
+    margin-top: -25px;
 }
