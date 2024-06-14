@@ -166,6 +166,7 @@ header a {
     font-style: normal;
     text-align: justify;
     margin-inline-start: 90px;
+    margin-bottom: 30px;
 }
 .texts {
     width: 50%;
