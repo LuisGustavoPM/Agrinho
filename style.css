@@ -30,7 +30,8 @@ header {
 }
 
 .azul {
-    background-color: #9e360693;
+    background-color: #4caf50;
+    ;
     padding: 11px;
     font-family: "Krub", sans-serif;
   font-weight: 500;
@@ -98,7 +99,8 @@ header {
 }
 
 footer {
-    background-color: #9e360693;
+    background-color: #4caf50;
+    ;
     display: grid;
     grid-template-columns: 70% 30%;
 }
