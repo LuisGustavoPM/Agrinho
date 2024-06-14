@@ -85,7 +85,7 @@ header {
 
 #mercadorias {
     display: grid;
-    grid-template-columns: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%;
+    grid-template-columns: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%;
     justify-content: space-around;
 
 }
@@ -93,7 +93,7 @@ header {
 .comida {
     width: 60%;
     margin: 5%;
-    border: solid 15px #9e360693;
+    border: solid 15px #00cc5c;
 
 }
 
